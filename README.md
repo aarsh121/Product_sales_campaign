@@ -1,7 +1,6 @@
 # Product_sales_campaign
 
-🖋 Product Sales Campaign 🖨
-This project was my final practical exam for my Data Analyst Professional certification with Python and SQL at DataCamp.
+This project obejctive was taken from DataCamp course.
 
 
 Synopsis 📋
